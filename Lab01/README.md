@@ -4,29 +4,29 @@ Integrantes do grupo:
 - Oliver Kieran Galvão McCormack	TIA: 42122058
 - Pedro Loureiro Morone Branco Volpe	TIA: 4213193
 
-1  sudo dnf install git gcc
-    2  mkdir computacaoParalela
-    3  cd computacaoParalela
-    4  git init
-    5  shh-keygen
-    6  ssh-keygen
-    7  cat /home/ec2-user/.ssh/id_rsa.pub
-    8  mkdir Lab01
-    9  cd Lab01
-   10  vi hello.c
-   11  gcc -o hello.exe hello.c
-   12  ./hello.exe
-   13  vi README.md
-   14  ls
-   15  cd ..
-   16  git status
-   17  git add Lab01
-   18  git commit -m "Add Lab01"
-   19  git remote -v
-   20  git remote add origin git@github.com:EriAkiUchi/computacaoParalela.git
-   21  git branch -M main
-   22  git push -u origin main
-   23  git remote -v
-   24  git push origin main
-   25  cd Lab01
-   26  history6
+- 1  sudo dnf install git gcc
+- 2  mkdir computacaoParalela
+- 3  cd computacaoParalela
+- 4  git init
+- 5  shh-keygen
+- 6  ssh-keygen
+- 7  cat /home/ec2-user/.ssh/id_rsa.pub
+- 8  mkdir Lab01
+- 9  cd Lab01
+- 10  vi hello.c
+- 11  gcc -o hello.exe hello.c
+- 12  ./hello.exe
+- 13  vi README.md
+- 14  ls
+- 15  cd ..
+- 16  git status
+- 17  git add Lab01
+- 18  git commit -m "Add Lab01"
+- 19  git remote -v
+- 20  git remote add origin git@github.com:EriAkiUchi/computacaoParalela.git
+- 21  git branch -M main
+- 22  git push -u origin main
+- 23  git remote -v
+- 24  git push origin main
+- 25  cd Lab01
+- 26  history
