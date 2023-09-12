@@ -4,7 +4,7 @@ Eric AKio Uchiyamada TIA: 42107865
   
 Oliver Kieran Galvão McCormack TIA: 42122058  
   
-Pedro Loureiro Morone Branco Volpe TIA: 4213193  
+Pedro Loureiro Morone Branco Volpe TIA: 42131936  
   
   
 Como o comando time apresenta o resultado em segundos não é possível inferir com certeza a diferença de tempo entre os dois códigos.  
