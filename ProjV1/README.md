@@ -34,6 +34,7 @@ Já a versão Paralela apresentou 5 casas decimais corretas.
 Esse valor de precisão foi obtido pela versão serial, pois a versão paralela embora seja mais rapida,  
 está muito mais imprecisa.  
   
+Os valores completos obtidos estão nos arquivos txt respectivos.    
 E o speedup obtido da versão paralela em relação a serial foi de:   
 1.116s / 0.401s = Portanto speeup resultou em: 2,783042394  
   
